@@ -1,7 +1,7 @@
 # US Schooling Laws
-Code to create a dataset that documents all historical U.S. compulsory schooling and educational expansion law, roughly fit to be used with census data from 1850-1950.
+Data + code for a dataset that documents all historical U.S. compulsory schooling and educational expansion law, roughly fit to be used with census data from 1850-1950.
 
-This is largely based on work done by Clay et al. (2021), Goldin & Katz (2008), Rauscher (2015, 2016), and Knapp et al. (2025). I combine information from all of these sources and additionally extend the laws back and forth, where available and needed, to create a new dataset. The final data, as in Clay et al. (2021) is a dataset that for each birth cohort in each state documents how much schooling is required.
+This is largely based on work done by Clay et al. (2021), Goldin & Katz (2008), Rauscher (2015, 2016), and Knapp et al. (2025). I combine information from all of these sources and additionally extend the laws back and forth, where available and when needed, to create a new dataset. The final data, as in Clay et al. (2021), is a dataset that for each birth cohort in each state documents how much schooling is required.
 
 
 ## References
