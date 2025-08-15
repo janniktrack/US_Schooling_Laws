@@ -4,6 +4,7 @@ Code to create a dataset that documents all historical U.S. compulsory schooling
 This is largely based on work done by Clay et al. (2021), Goldin & Katz (2008), Rauscher (2015, 2016), and Knapp et al. (2025). I combine information from all of these sources and additionally extend the laws back and forth, where available and needed, to create a new dataset. The final data, as in Clay et al. (2021) is a dataset that for each birth cohort in each state documents how much schooling is required.
 
 
+## References
 
 Clay, K., Lingwall, J., & Jr, M. S. (2021). Laws, Educational Outcomes, and Returns to Schooling Evidence from the First Wave of U.S. State Compulsory Attendance Laws. Labour Economics, 68, 101935. https://doi.org/10.1016/j.labeco.2020.101935
 
